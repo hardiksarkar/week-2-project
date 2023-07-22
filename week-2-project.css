@@ -91,11 +91,11 @@ nav > ul > li {
 
 /* main  */
 
-section {
+section, footer {
   margin-top: 30px;
 }
 
-/* section-1  */
+/* Main section (Hero Section)  */
 
 #sec-1-container {
   display: flex;
@@ -148,7 +148,7 @@ section {
   padding-right: 15px;
 }
 
-/* section-2  */
+/* Latest Blogs Section  */
 
 #section-2-container{
     display: flex;
@@ -180,7 +180,7 @@ section {
 #sec-2-h2{
     font-size: 3rem;
 }
-/* section-3  */
+/* More Blogs Section  */
 
 #section-3-container{
     display: flex;
@@ -192,7 +192,6 @@ section {
     margin: 0px 20px;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.368);
     border-radius: 20px;
-    /* justify-content: center; */
 }
 
 #section-3-container>div>div:nth-child(2)>*{
@@ -214,7 +213,7 @@ section {
     border-radius: 20px;
 }
 
-/* section-4  */
+/* Footer  */
 
 #section-4-container{
     display: flex;
