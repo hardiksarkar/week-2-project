@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+a,button{
+  cursor: pointer;
+  color: black;
+}
+
 body {
   margin: 20px;
   background-color: #FFFDF8;
